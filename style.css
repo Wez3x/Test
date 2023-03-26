@@ -1,0 +1,19 @@
+p {
+    font-weight : bold;
+    color : red;
+    font-size : 35px;
+    text-align: center;
+}
+
+#marker {
+    background-color:red;
+    color: aliceblue;
+    font-size: 70px;
+}
+
+#marker {
+    padding-left: 10px; 
+    padding-right: 10px; 
+    border-radius: 10px;
+    float:left
+}
